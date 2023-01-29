@@ -1,2 +1,3 @@
-# english-learning
-this repo is about my learning notes on English
+# 英语学习
+## 概述
+本仓库用来存放我的英语学习笔记，包括编程英语和生活英语。其中编程英语的主要来源为英文文档、源码阅读、英文技术文章阅读等。生活英语的主要来源为B站、懒人英语App等。
